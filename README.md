@@ -28,14 +28,14 @@ A function in which pass the object and a key and get back the value
 - Open the `src` folder
   - `cd aws-metadata-json/src`
 
-## Run Challenge2 Script:
+## Run Challenge 2 and 3  Script:
 
-python3 get_ec2_metadata.py
-python3 get_data_key.py
+- python3 get_ec2_metadata.py
+- python3 get_data_key.py
 
-Run Challenge3 Script:
+## Run Challenge  3  Script:
 
-python3 get_value.py
+- python3 get_value.py
 `
 
 ## How it works
